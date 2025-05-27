@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+pydantic
+python-jose[full]
+passlib[bcrypt]
+pytest
+pytest-cov
+docker
